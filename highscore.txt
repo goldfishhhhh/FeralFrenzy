@@ -45,3 +45,9 @@ Aries,11,110,2
 Aquarius,267,2670,7
 Aries,91,910,4
 Aries,91,910,4
+Aries,55,550,3
+Aries,75,750,4
+Aries,60,600,4
+Aries,20,200,2
+Aries,0,0,1
+Aries,64,640,4
