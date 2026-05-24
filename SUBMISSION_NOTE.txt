@@ -1,0 +1,9 @@
+This project requires Pygame 2.x to run.
+Install: conda install pygame  OR  pip install pygame
+
+Entry point: python main.py
+First-time setup: python generate_maps.py (generates maps/ folder)
+Tests (no Pygame needed): python -m unittest discover -s tests
+
+Assets included: assets/sprites/, assets/sfx/
+Music file: drop your own .mp3/.wav into assets/ for beat mode.
